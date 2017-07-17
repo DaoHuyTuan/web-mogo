@@ -2,6 +2,31 @@
     font-family: MyriadPro;
     src: url(../../font/MyriadPro.woff);
 }
+#menu{
+    width:100%;
+    margin-top: 0;
+    padding: 0;
+    position: relative;
+    ul {
+    width:50%;
+    margin-top: 0px;
+    margin-left: 50%;
+    padding: 0;
+    position: absolute;
+    top:20px;
+    opacity: 1;
+    li{
+        display: inline;
+        margin-left:10%;
+        font-family: MyriadPro;
+        font-size: 14pt;
+        color: white;
+
+        
+    }
+}
+}
+
 #logoText{
     margin-top: 2pt;
     margin-left: 15%;
@@ -12,4 +37,12 @@
     font-weight: normal;
     font-family: MyriadPro;
 
+}
+#active{
+    width: 50px;
+    display: inline;
+    
+    font-size: 14pt;
+    color: #fce38a;
+    font-family: MyriadPro;
 }
