@@ -1,10 +1,15 @@
+@font-face {
+    font-family: MyriadPro;
+    src: url(../../font/MyriadPro.woff);
+}
 #logoText{
     margin-top: 2pt;
-    margin-left: 20%;
+    margin-left: 15%;
     color: white;
     position: absolute;
     opacity: 1;
     font-size: 30pt;
     font-weight: normal;
-    font-family: 'Myriad Pro';
+    font-family: MyriadPro;
+
 }
