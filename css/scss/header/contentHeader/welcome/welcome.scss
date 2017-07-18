@@ -1,0 +1,38 @@
+#welcome{
+    width: 50%;
+    height:200px;
+    position: absolute;
+    top:85%;
+    left: 25%;
+    text-align: center;
+    margin: 0px;
+    padding: 0px; 
+    
+}
+.welcomeTxt{
+    height: 120px;
+    font-size: 100px;
+    color: white;
+    font-family: MyriadPro;
+    
+
+    
+}
+.mogotxt{
+    font-size: 100px;
+    color: white;
+    font-family: MyriadPro;
+    display: inline-block;
+    line-height: 50px;
+    top:10%;
+   
+   
+}
+#retangle{
+    width: 70px;
+    height: 3px;
+    position: absolute;
+    background-color: white;
+    top:300%;
+    left:48%;
+}

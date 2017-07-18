@@ -1,0 +1,10 @@
+@import './creative/creative.scss';
+@import './welcome/welcome.scss';
+@import './buttonLearnMore/BtnLearnMore.scss';
+
+#contentHeader{
+    width:100%;
+    float: left;
+    position: absolute;
+    top: 200px;
+}
