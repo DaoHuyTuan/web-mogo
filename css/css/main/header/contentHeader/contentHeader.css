@@ -35,27 +35,33 @@ p {
   top: 10%; }
 
 #retangle {
-  width: 70px;
+  width: 40px;
   height: 3px;
   position: absolute;
   background-color: white;
   top: 300%;
-  left: 48%; }
+  left: 47.5%; }
 
 #BntLearnMore {
-  width: 100px;
-  height: 30px;
+  width: 150px;
+  height: 50px;
   background-color: Transparent;
   border: 2px solid white;
   position: absolute;
   top: 350%;
-  left: 46%;
+  left: 43.5%;
   color: white; }
+
+#slider {
+  width: 100%;
+  height: 100px;
+  position: absolute;
+  top: 400%; }
 
 #contentHeader {
   width: 100%;
   float: left;
-  position: absolute;
+  position: relative;
   top: 200px; }
 
 /*# sourceMappingURL=contentHeader.css.map */

@@ -19,7 +19,8 @@
       margin-left: 9%;
       font-family: MyriadPro;
       font-size: 15px;
-      color: white; }
+      color: white;
+      background-color: transparent; }
       #menu ul li .chose {
         width: 50px;
         display: inline;
