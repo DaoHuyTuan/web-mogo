@@ -1,6 +1,6 @@
 {
 "version": 3,
-"mappings": "AAAA,QAAQ;EACJ,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,KAAK;EACb,OAAO,EAAE,YAAY;EAErB,WAAW,EAAE,IAAI",
+"mappings": "AAAA,QAAQ;EACJ,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,KAAK;EACb,OAAO,EAAE,YAAY;EACrB,WAAW,EAAE,IAAI",
 "sources": ["../../../../../scss/about/group/item/item.scss"],
 "names": [],
 "file": "item.css"
