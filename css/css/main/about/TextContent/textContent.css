@@ -6,10 +6,14 @@
 
 #group {
   width: 1000px;
-  height: 600px;
+  height: 300px;
   float: left;
   margin-top: 20px;
   margin-left: 15%; }
+
+#about {
+  width: 100%;
+  float: left; }
 
 #story {
   font-family: MyriadPro;
