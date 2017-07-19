@@ -119,6 +119,19 @@ p {
     background-image: linear-gradient(to bottom, #f38181, #fce38a);
     opacity: 0.96; }
 
+.itemImg {
+  width: 300px;
+  height: 250px;
+  display: inline-block;
+  margin-left: 25px; }
+
+#group {
+  width: 1000px;
+  height: 600px;
+  float: left;
+  margin-top: 20px;
+  margin-left: 15%; }
+
 #story {
   font-family: MyriadPro;
   font-weight: bolder;
