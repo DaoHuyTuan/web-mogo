@@ -1,1 +1,10 @@
 @import "./itemProduct/itemProduct.scss";
+#groupProduct{
+    width:80%;
+    
+    margin-left: 10%;
+    height: 200px;
+    &:last-child{
+        border-right: solid 1px white
+    }
+}

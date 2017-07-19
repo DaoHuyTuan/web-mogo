@@ -1,7 +1,7 @@
 {
 "version": 3,
-"mappings": "",
-"sources": [],
+"mappings": "AAAA,YAAY;EACR,KAAK,EAAC,MAAM;EACZ,MAAM,EAAC,KAAK;EACZ,KAAK,EAAE,IAAI;EACX,WAAW,EAAE,iBAAiB;EAC9B,UAAU,EAAE,MAAM;;AAEtB,eAAe;EACX,UAAU,EAAE,IAAI;;AAEpB,WAAW;EACP,UAAU,EAAE,IAAI;EAChB,WAAW,EAAE,SAAS;EACtB,SAAS,EAAE,IAAI;EACf,KAAK,EAAE,KAAK;;AAGhB,YAAY;EACR,WAAW,EAAE,IAAI;EACjB,WAAW,EAAE,SAAS;EACtB,KAAK,EAAE,KAAK;;ACnBhB,aAAa;EACT,KAAK,EAAC,GAAG;EAET,WAAW,EAAE,GAAG;EAChB,MAAM,EAAE,KAAK;EACb,wBAAY;IACR,YAAY,EAAE,eAClB",
+"sources": ["../../../../scss/product/groupProduct/itemProduct/itemProduct.scss","../../../../scss/product/groupProduct/groupProduct.scss"],
 "names": [],
 "file": "groupProduct.css"
 }

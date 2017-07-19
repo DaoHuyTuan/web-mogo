@@ -1,3 +1,22 @@
+.itemProduct {
+  width: 19.90%;
+  height: 200px;
+  float: left;
+  border-left: solid 0.5px white;
+  text-align: center; }
 
+.contentProduct {
+  margin-top: 25px; }
+
+.numProduct {
+  margin-top: 30px;
+  font-family: MyriadPro;
+  font-size: 80px;
+  color: white; }
+
+.textProduct {
+  line-height: 40px;
+  font-family: MyriadPro;
+  color: white; }
 
 /*# sourceMappingURL=itemProduct.css.map */
