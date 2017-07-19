@@ -1,3 +1,7 @@
-
+#product {
+  width: 100%;
+  float: left;
+  height: 400px;
+  background-color: red; }
 
 /*# sourceMappingURL=product.css.map */

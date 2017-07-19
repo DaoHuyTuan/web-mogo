@@ -1,7 +1,7 @@
 {
 "version": 3,
-"mappings": "",
-"sources": [],
+"mappings": "AACA,QAAQ;EACJ,KAAK,EAAC,IAAI;EACV,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,KAAK;EACb,gBAAgB,EAAE,GAAG",
+"sources": ["../../../scss/product/product.scss"],
 "names": [],
 "file": "product.css"
 }
