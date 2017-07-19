@@ -82,7 +82,7 @@ p {
   position: absolute;
   background-color: white;
   top: 300%;
-  left: 47.5%; }
+  left: 48.5%; }
 
 #BntLearnMore {
   width: 150px;
@@ -91,14 +91,8 @@ p {
   border: 2px solid white;
   position: absolute;
   top: 350%;
-  left: 43.5%;
+  left: 44.5%;
   color: white; }
-
-#slider {
-  width: 100%;
-  height: 100px;
-  position: absolute;
-  top: 400%; }
 
 #contentHeader {
   width: 100%;
@@ -124,6 +118,35 @@ p {
     bottom: 0;
     background-image: linear-gradient(to bottom, #f38181, #fce38a);
     opacity: 0.96; }
+
+#story {
+  font-family: MyriadPro;
+  font-weight: bolder;
+  line-height: 50px;
+  font-size: 50px;
+  color: #333333; }
+
+#description {
+  text-align: center;
+  width: 100%;
+  height: auto; }
+
+h2 {
+  font-family: MyriadPro;
+  margin-top: 100px;
+  color: #333333; }
+
+#retangle2 {
+  width: 50px;
+  height: 3px;
+  position: absolute;
+  background-color: #f38181;
+  top: 140%;
+  left: 48%; }
+
+#contentAbout {
+  margin-top: 60px;
+  font-size: 15pt; }
 
 #main {
   width: 100%;
