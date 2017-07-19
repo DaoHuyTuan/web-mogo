@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AAAA,OAAO;EACH,KAAK,EAAC,IAAI;EACV,MAAM,EAAE,KAAK;EACb,QAAQ,EAAE,QAAQ;EAClB,GAAG,EAAE,IAAI",
-"sources": ["../../../../../scss/header/contentHeader/slider/slider.scss"],
-"names": [],
-"file": "slider.css"
-}
