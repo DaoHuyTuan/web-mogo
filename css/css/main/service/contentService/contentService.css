@@ -1,6 +1,37 @@
+.itemService {
+  width: 33%;
+  height: 150px;
+  float: left; }
+
+.itemImageService {
+  width: 20%;
+  height: 40px;
+  float: left;
+  margin-top: 25px; }
+
+.disc {
+  width: 80%;
+  height: 100%;
+  float: left;
+  font-family: MyriadPro;
+  margin-top: 10px; }
+
+.h3ItemService {
+  line-height: 30px;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: MyriadPro; }
+
+#groupService {
+  width: 80%;
+  height: 500px;
+  margin-left: 10%;
+  float: left; }
+
 #service {
   width: 100%;
   height: 800px;
+  position: relative;
   float: left; }
 
 #contentService {
@@ -22,5 +53,13 @@
   font-size: 50px;
   line-height: 20px;
   color: #333333; }
+
+#retangle3 {
+  width: 50px;
+  height: 3px;
+  position: absolute;
+  background-color: #f38181;
+  top: 25%;
+  left: 48%; }
 
 /*# sourceMappingURL=contentService.css.map */
