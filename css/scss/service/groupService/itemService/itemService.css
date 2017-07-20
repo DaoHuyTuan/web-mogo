@@ -1,0 +1,25 @@
+.itemService {
+  width: 33%;
+  height: 150px;
+  float: left; }
+
+.itemImageService {
+  width: 20%;
+  height: 40px;
+  float: left;
+  margin-top: 25px; }
+
+.disc {
+  width: 80%;
+  height: 100%;
+  float: left;
+  font-family: MyriadPro;
+  margin-top: 10px; }
+
+.h3ItemService {
+  line-height: 30px;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: MyriadPro; }
+
+/*# sourceMappingURL=itemService.css.map */
