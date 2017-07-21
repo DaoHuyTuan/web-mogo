@@ -288,22 +288,60 @@ h2 {
 #service2 {
   width: 100%;
   float: left;
-  height: 1400px;
-  background-color: yellow; }
+  height: 1400px; }
 
 .page_left {
-  width: 50%;
+  width: 49%;
   float: left;
   height: 600px;
-  margin-top: 50px;
-  background-color: red; }
+  margin-top: 50px; }
+
+.horizon-tab {
+  width: 100%;
+  height: auto;
+  float: left; }
 
 .page_right {
   width: 50%;
   float: left;
   height: 600px;
-  margin-top: 50px;
-  background-color: blue; }
+  margin-top: 30px; }
+
+.page_content {
+  width: 90%;
+  float: left;
+  margin-left: 5%; }
+
+.tab {
+  width: 100%;
+  height: auto;
+  float: left;
+  border: 1px solid #ddd;
+  margin-top: 20px; }
+  .tab .tab-title {
+    width: 100%;
+    float: left;
+    border-bottom: 1px solid #ddd; }
+    .tab .tab-title .tab-title-a {
+      width: 70%;
+      float: left;
+      margin-top: 20px;
+      margin-left: 6px;
+      font-size: 20px; }
+    .tab .tab-title .tab-img {
+      float: left;
+      width: 40px;
+      margin: 10px 7px 7px 7px; }
+    .tab .tab-title .tab-arrow {
+      float: left;
+      margin-top: 20px;
+      margin-left: 90px; }
+  .tab .tab-content {
+    width: 97%;
+    float: left;
+    height: auto;
+    padding: 10px;
+    color: #cccccc; }
 
 #main {
   width: 100%;
