@@ -25,6 +25,8 @@
 #groupService {
   width: 80%;
   height: 300px;
+  position: absolute;
+  top: 50%;
   margin-left: 10%;
   float: left; }
 
@@ -59,7 +61,7 @@
   height: 3px;
   position: absolute;
   background-color: #f38181;
-  top: 25%;
+  top: 70%;
   left: 48%; }
 
 /*# sourceMappingURL=contentService.css.map */

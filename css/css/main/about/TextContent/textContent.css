@@ -25,20 +25,14 @@
 #description {
   text-align: center;
   width: 100%;
-  height: auto; }
+  height: auto;
+  margin-top: 0;
+  float: left; }
 
 h2 {
   font-family: MyriadPro;
   margin-top: 100px;
   color: #333333; }
-
-#retangle2 {
-  width: 50px;
-  height: 3px;
-  position: absolute;
-  background-color: #f38181;
-  top: 140%;
-  left: 48%; }
 
 #contentAbout {
   margin-top: 60px;
